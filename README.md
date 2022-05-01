@@ -4,4 +4,5 @@ Sample API implementation using MVCS (Model, View, Controller, Service) and the 
 
 # Links
 - [Video Tutorial](https://www.youtube.com/watch?v=qdhnC_FUBbs).
+- [Blog Post](https://www.ahtcloud.com/laravel-cruid-api-course-mvcs-repository-pattern).
 
