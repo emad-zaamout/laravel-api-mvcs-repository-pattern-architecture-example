@@ -3,5 +3,5 @@
 Sample API implementation using MVCS (Model, View, Controller, Service) and the Repository pattern.
 
 # Links
-- [Video Tutorial](https://youtu.be/6Cki03hGjpQ).
+- [Video Tutorial](https://www.youtube.com/watch?v=qdhnC_FUBbs).
 
